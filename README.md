@@ -1,5 +1,5 @@
 # GRIT
-A tool that is created to gather up disclosed reports that is related to a certain vulnerability.
+A tool that is created to gather up disclosed reports in hackerone that is related to a certain vulnerability.
 
 Reminder: After gathering up the links it would save the output to a file
 
